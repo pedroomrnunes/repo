@@ -1,0 +1,63 @@
+<style>
+		
+		body{
+			
+			margin-left: 50px;
+		}
+		/*
+		.calc1{
+			background-color: black;
+			width: 250px;
+			opacity: 0.9;
+			z-index: -1;
+			align: center;
+		} */
+		.calc2{
+			background-color: LIGgrey;
+			border: 1px black;
+			width: 200px;
+			padding: 15px;
+			opacity: 0.3;
+			z-index: -1;
+			
+		}
+		table,tr,td{
+			padding: 8px;
+			border: 1px solid black;
+			border-collapse: collapse;
+			text-align: center;
+		}
+		
+		button{
+			width:  75px;
+			height: 75px;
+		}
+		
+		#mostra{
+			border: 1px solid;
+			width: 380px;
+			height: 70px;
+			padding: 5px;
+		}
+		
+		label{
+			height: 325px;
+			text-align: right;
+			font-size: 125x;
+		}
+		
+		h1{
+			margin-left: 15px;
+			
+		}
+		
+		h2{
+			height: 325px;
+			text-align: right;
+			font-size: 325x;
+		}
+
+		
+		
+		
+</style>
