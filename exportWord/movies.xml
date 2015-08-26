@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies>
+  <Genre name="Action">
+      <Movie> 
+          <Name>Hora de Ponta</Name> 
+      <Release> 2005 </Release>
+      </Movie>
+  </Genre>
+    <Genre name="Thriller">
+      <Movie> 
+          <Name> Revolution</Name> 
+      <Release> 2007 </Release>
+      </Movie>
+      <Movie> 
+          <Name> Dark Matter</Name> 
+      <Release> 20013 </Release>
+      </Movie>
+  </Genre>
+  <Genre name="Comedy">
+      <Movie> 
+          <Name> Just in case</Name> 
+      <Release> 2013 </Release>
+      </Movie>
+  </Genre>
+</Movies>
+
